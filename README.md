@@ -20,7 +20,7 @@ class Developer {
         "Arch. patterns":   ["MVC", "MVVM", "MVVM+C", "MVP", "MVP+C"]
         "Struct. patterns": ["Delegate", "Singleton", "Factory", "Observer", "Facade"]
         "GUI":              ["Git", "GitHub"]
-        "Graphics":         ["UI/UX": "Figma", "Photoshop"]
+        "Graphics":         ["Figma", "Photoshop"]
     ]
     
     let other: [String] = [
