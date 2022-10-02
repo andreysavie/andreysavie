@@ -3,38 +3,28 @@
 ![I am iOS Developer](https://camo.githubusercontent.com/fb9f8045c2a49eec15a7608a6dcac8928a9f92e45bebab3619c9bec17a443c1a/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d45696763415342354b37492f5735373454727a357461492f41414141414141414150452f326967686d464c58576334543679386a6f62595f4c6f4271756930537549364177434c63424741732f73313630302f4b656c6c616e253235324241742532353242576f726b2e676966)
 
 
-## 📍 Stack
+## ⚙️ Stack
 
 - Swift
 - ООП, SOLID
+- Layout: UIKit / AutoLayout / SnapKit / Storyboard
+- Dependensies: CocoaPods / Swift Package Manager (SPM)
+- Storage: Core Data / UserDefaults / FileManager / Realm
+- Networking: URLSession / JSON Parse / REST API / Firebase
+- Multithreading: GCD / DQ's
+- Arch. patterns: MVC / MVVM / MVVM+C / MVP / MVP+C
+- Struct. patterns: Delegate / Singleton / Factory / Observer / Facade
+- GUI: Git / GitHub
+- Graphics, UI/UX: Figma / Photoshop
 
-- UiKit / Storyboard / xib
-- AutoLayout
-- Snapkit
+### Others
 
-- CocoaPods / Swift Package Manager (SPM)
-
-- Core Data / UserDefaults / KeyChain
-- FileManager
-- Firebase
-- Realm
-
-- URLSession
-- JSON Parse / REST API
-- GCD / DQ's / Runloop
-- MVC / MVVM / MVVM+C / MVP / MVP+C
-
-- Delegate, Singleton, Factory
-- Observer, Facade
-
-- Git / GitHub
-
-- Figma 
-- Photoshop
-
+- SwiftUI
 - MapKit
+- Push / Local Notifications
 - Мультимедиа (AVFoundation, Core Audio, AVKit)
 - Core Animation
+
 
 ## About
 - 🔭 I’m currently working on my Pet - and educational projects
