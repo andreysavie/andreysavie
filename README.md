@@ -9,7 +9,7 @@ class Developer {
     let age = 26
     let language = "Swift"
     
-    let stackDictionary: [String: [String]] = [
+    let myStackDictionary: [String: [String]] = [
         
         "Principles":       ["OOP", "SOLID"]
         "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
@@ -23,7 +23,7 @@ class Developer {
         "Graphics":         ["Figma", "Photoshop"]
     ]
     
-    let other: [String] = [
+    let otherTechnologies: [String] = [
         "SwiftUI",
         "MapKit",
         "Push / Local Notifications",
@@ -33,29 +33,6 @@ class Developer {
 
 }
 ```
-
-## ⚙️ Stack
-
-- Swift
-- OOP, SOLID
-- Layout: UIKit / AutoLayout / SnapKit / Storyboard
-- Dependensies: CocoaPods / Swift Package Manager (SPM)
-- Storage: Core Data / UserDefaults / FileManager / Realm
-- Networking: URLSession / JSON Parse / REST API / Firebase
-- Multithreading: GCD / DQ's
-- Arch. patterns: MVC / MVVM / MVVM+C / MVP / MVP+C
-- Struct. patterns: Delegate / Singleton / Factory / Observer / Facade
-- GUI: Git / GitHub
-- Graphics, UI/UX: Figma / Photoshop
-
-### Others
-
-- SwiftUI
-- MapKit
-- Push / Local Notifications
-- Мультимедиа (AVFoundation, Core Audio, AVKit)
-- Core Animation
-
 
 ## About
 - 🔭 I’m currently working on my Pet - and educational projects
