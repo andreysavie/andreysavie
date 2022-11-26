@@ -13,7 +13,7 @@ class IOSDeveloper {
         
         "Principles":       ["OOP", "SOLID"]
         "Layout":           ["UIKit", "AutoLayout", "SnapKit", "Storyboard"]
-        "Dependensies":     ["CocoaPods", "SPM"]
+        "Dependensies":     ["CocoaPods", "SPM", "Carthage"]
         "Storage":          ["Core Data", "UserDefaults", "FileManager", "Realm"]
         "Networking":       ["URLSession", "JSON Parse", "REST API", "Firebase"]
         "Multithreading":   ["GCD", "DQ's"]
@@ -28,7 +28,8 @@ class IOSDeveloper {
         "MapKit",
         "Push / Local Notifications",
         "Multimedia (AVFoundation, Core Audio, AVKit)",
-        "Core Animation"
+        "Core Animation",
+        "RXSwift"
     ]
     
     func sayHello() {
