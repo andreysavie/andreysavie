@@ -7,7 +7,7 @@ class IOSDeveloper {
     
     let name = "Andrey Rybalkin"
     let age = 26
-    let language = "Swift"
+    let languages = ["Swift", "Obj-C"]
     
     var myStackDictionary: [String: [String]] = [
         
@@ -37,7 +37,7 @@ class IOSDeveloper {
     }
 }
     
-me = IOSDeveloper()
+let me = IOSDeveloper()
 me.sayHello()
 ```
 
