@@ -45,14 +45,12 @@ me.sayHello()
 ```
 
 ## About
-- 🔭 I’m currently working on my Pet - and educational projects
+🔭 I’m currently working on my Pet - and educational projects
 
 ## Contact
-- 📫 How to reach me: andreysavie@ya.ru 
+🤙 How to reach me: 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/github.svg' alt='github' height='40'>](https://github.com/andreysavie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/andreysavie/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/telegram.svg' height='40'>](https://www.t.me/andreysavie)  
-
-![GitHub metrics](https://metrics.lecoq.io/andreysavie)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg' height='40'>](https://www.t.me/andreysavie)  [<img src='https://cdn4.iconfinder.com/data/icons/web-ui-color/128/Mail-1024.png' height='40'>](https://www.t.me/andreysavie)
 
 ![Profile views](https://gpvc.arturio.dev/andreysavie)  
